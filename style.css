@@ -50,11 +50,6 @@ a {
   /* text-decoration: none; */
   color: white;
 }
-section {
-  min-height: 90vh;
-  width: 100%;
-  align-items: center;
-}
 h1 {
   font-size: 60px;
   color: #575757;
@@ -83,10 +78,48 @@ h2 {
   font-size: 48px;
   padding-bottom: 25px;
 }
+.short-text {
+  padding-right: 25%;
+}
+.section2 {
+  background-image: url(img/shapes/7.png);
+  background-repeat: no-repeat;
+}
+/* section 3 styles START */
+.recipies {
+  text-align: center;
+}
+.recipies p {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+/* section 3 styles END */
+
+/* section 4 styles START */
+
+.wrapper {
+  width: 100%;
+  text-align: center;
+}
+footer h1,
+p {
+  color: black;
+}
+.column {
+  display: inline-block;
+  min-height: 150px;
+  width: 27%;
+  margin: 30px;
+  border: 1px solid white;
+  min-width: 300px;
+  align-items: center;
+}
+/* section 4 styles END */
+/* footer styles START */
 footer {
   background-color: #0b0d17;
   padding-top: 70px;
-  padding-bottom: 100px;
+  padding-bottom: 70px;
 }
 footer h2 {
   color: rgb(85, 81, 81);
@@ -97,3 +130,4 @@ footer p {
   padding-top: 20px;
   text-align: center;
 }
+/* footer styles end  */
