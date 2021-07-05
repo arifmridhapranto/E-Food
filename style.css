@@ -120,14 +120,21 @@ footer {
   background-color: #0b0d17;
   padding-top: 70px;
   padding-bottom: 70px;
+  text-align: center;
 }
 footer h2 {
   color: rgb(85, 81, 81);
-  text-align: center;
+  /* text-align: center; */
 }
 footer p {
   color: white;
   padding-top: 20px;
+  /* text-align: center; */
+}
+footer div ul li a {
+  color: white;
   text-align: center;
+}
+footer a {
 }
 /* footer styles end  */
