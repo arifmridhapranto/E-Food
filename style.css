@@ -24,10 +24,9 @@ header img {
 section img {
   height: 100%;
   width: 100%;
-  /* padding: 50px 100px; */
 }
 .main-image {
-  padding: 100px 100px;
+  padding: 50px 100px;
 }
 
 ul {
@@ -155,12 +154,10 @@ footer {
 }
 footer h2 {
   color: rgb(85, 81, 81);
-  /* text-align: center; */
 }
 footer p {
   color: white;
   padding-top: 20px;
-  /* text-align: center; */
 }
 
 /* footer styles end  */
